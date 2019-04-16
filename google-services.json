@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380083531299",
+    "firebase_url": "https://burda-majlis.firebaseio.com",
+    "project_id": "burda-majlis",
+    "storage_bucket": "burda-majlis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380083531299:android:cc85ed1936df8cae",
+        "android_client_info": {
+          "package_name": "com.burda.burdamajlis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380083531299-667qamku9n0gpc12e9jpp3fipeibfrup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burda.burdamajlis",
+            "certificate_hash": "d1e3f257477574b72e2ed6d70f1de87cfdeeb45f"
+          }
+        },
+        {
+          "client_id": "380083531299-2ras88dd8s0ionn5ui3ppmkhj7gq8n7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwIpZylvrkfY6GVTqJi0N_PHc8dlCkG5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380083531299-2ras88dd8s0ionn5ui3ppmkhj7gq8n7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
